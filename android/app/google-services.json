@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "259940867885",
+    "project_id": "dictionary-flutter-v0",
+    "storage_bucket": "dictionary-flutter-v0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259940867885:android:81a82ef22dac0efd573da4",
+        "android_client_info": {
+          "package_name": "com.example.vocabify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGniCMxMZvdzk17T3uoJSvetlkfQ9b1Dw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
